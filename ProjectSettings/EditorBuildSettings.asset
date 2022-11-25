@@ -20,4 +20,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Scores.unity
     guid: d2528542b0b7d4bd380437f835ad82b2
+  - enabled: 1
+    path: Assets/Scenes/Camera.unity
+    guid: cf9bae2e44c0b4a72b534c8744adc6e4
   m_configObjects: {}
